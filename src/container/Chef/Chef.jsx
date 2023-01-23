@@ -17,10 +17,10 @@ const Chef = () => (
         <div className="app__chef-content_quote">
           <img src={images.quote} alt="quote" />
           <p className="p__opensans">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit auctor sit .
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit auctor sit.
           </p>
         </div>
-        <p className="p__opensans">
+        <p className="p__opensans" style={{ marginTop: "1rem" }}>
           auctor sit iaculis in arcu. Vulputate nulla lobortis mauris eget sit.
           Nulla scelerisque scelerisque congue ac consequat, aliquam molestie
           lectus eu. Congue iaculis integer curabitur semper sit nunc.
