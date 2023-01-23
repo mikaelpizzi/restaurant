@@ -9,7 +9,7 @@ const Navbar = () => {
 
   return (
     <nav className="app__navbar">
-      <div className="app_navbar-logo">
+      <div className="app__navbar-logo">
         <img src={images.gericht} alt="logo" />
       </div>
 
@@ -55,7 +55,7 @@ const Navbar = () => {
               className="overlay__close"
               onClick={() => setToggleMenu(false)}
             />
-            <ul className="app__navbar-smallscreen-links">
+            <ul className="app__navbar-smallscreen_links">
               <li className="p__opensans">
                 <a href="#home">Home</a>
               </li>
