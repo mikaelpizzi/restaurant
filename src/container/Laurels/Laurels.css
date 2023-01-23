@@ -1,0 +1,15 @@
+.app__laurels_award {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-top: 3rem;
+}
+
+.app__laurels_award-card {
+  flex: 1;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  min-width: 230px;
+  margin: 1rem;
+}
