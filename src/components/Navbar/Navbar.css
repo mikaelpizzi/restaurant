@@ -93,11 +93,12 @@
   font-size: 2rem;
   text-align: center;
   font-family: var(--font-base);
-  transition: 0.2s ease;
+  transition: 0.5s ease;
 }
 
 .app__navbar-smallscreen_links li:hover {
   color: var(--color-white);
+  transform: scale(1.25);
 }
 
 @media screen and (max-width: 2000px) {
