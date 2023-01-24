@@ -93,7 +93,7 @@
   font-size: 2rem;
   text-align: center;
   font-family: var(--font-base);
-  transition: 0.5s ease;
+  transition: 0.25s ease;
 }
 
 .app__navbar-smallscreen_links li:hover {
